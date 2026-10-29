@@ -17,3 +17,4 @@ This repository documents my practical journey learning Git, GitHub, and softwar
 - [ ] Built my first software tool.
 - [ ] Made my first local change in VS Code.
 - [ ] Practiced pulling a change from GitHub.
+- [ ] 🤣❤️😍

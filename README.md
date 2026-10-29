@@ -15,3 +15,4 @@ This repository documents my practical journey learning Git, GitHub, and softwar
 - [ ] Learned how commits work.
 - [ ] Practiced branches and merging.
 - [ ] Built my first software tool.
+- [ ] Made my first local change in VS Code.
